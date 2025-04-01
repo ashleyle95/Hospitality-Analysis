@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/faaae13c-d348-4385-9716-3b4b7be066e7)
 # Hospitality-Analysis
 ## Project Links
 [Power BI-Hospital Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTVjZDU4ZWEtNjAwOC00MjY2LWIwZTItMDM5MmM5Y2Y4YWJiIiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
@@ -16,7 +17,7 @@
 The hotel A has ﻿25﻿ properties in ﻿4﻿ cities and served ﻿274,134﻿ guests in total with ﻿134,590﻿ bookings. There are 4 types of rooms: Standard, Elite, Premium and Presidential. Bookings can be made via various platforms.
 Bookings are collected from ﻿2022-04-07﻿  to ﻿2022-04-07﻿.
 ### Key Metrics:
-[Explanation for key metrics]()
+[Explanation for key metrics](https://github.com/ashleyle95/Hospitality-Analysis/blob/main/KPI%20metrics.xlsx)
 ### Objective
 + Examine Key Metrics of Operational Performance: Evaluate fundamental performance indicators such as RevPAR (Revenue Per Available Room), Occupancy Rate, ADR (Average Daily Rate), and Realization to identifying potential areas for improvement in pricing, marketing, or inventory management.
 
