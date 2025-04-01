@@ -10,9 +10,7 @@
 
 [3. Reporting Dashboard](#3-reporting-dashboard)
 
-[4. Findings/Recommendations](#4-findingsrecommendations)
-
-[5. Limitations](#5-limitations)
+[4. Limitations](#5-limitations)
 ## 1. Project Overview
 The hotel A has ﻿25﻿ properties in ﻿4﻿ cities and served ﻿274,134﻿ guests in total with ﻿134,590﻿ bookings. There are 4 types of rooms: Standard, Elite, Premium and Presidential. Bookings can be made via various platforms.
 Bookings are collected from ﻿2022-04-07﻿  to ﻿2022-04-07﻿.
@@ -32,4 +30,13 @@ Bookings are collected from ﻿2022-04-07﻿  to ﻿2022-04-07﻿.
 ## 2. Data Process:
 After conducting a thorough data profiling and ensuring data quality, data is well-prepared for further analysis and I already create data modelling for the dat
 ![image](https://github.com/user-attachments/assets/e865172a-8b5e-4633-b982-878e992657be)
+## 3. Reporting dashboard 
+[Embedded Demo in Power BI service](https://app.powerbi.com/view?r=eyJrIjoiZTVjZDU4ZWEtNjAwOC00MjY2LWIwZTItMDM5MmM5Y2Y4YWJiIiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
+
+## 4. Limitations
+Data Collection Period and Its Limitations
+The data is collected from bookings made between 07 April 2022 and 31 July 2022. While this dataset provides valuable insights into the hotel's performance during this specific period, it presents certain limitations when attempting to conduct a comprehensive analysis of overall operational performance:
++ Short Time Frame: A data collection period of approximately four months may be insufficient to uncover consistent patterns and trends. Seasonal effects, promotional campaigns, holiday peaks, and other periodic factors cannot be fully captured within this limited window.
++ Lack of Full-Year Perspective: Operational performance metrics such as RevPAR, Occupancy Rate, ADR, and Realisation can fluctuate significantly throughout the year. For instance, high-demand periods like summer vacations or holiday seasons may show different trends compared to off-peak months.
+
 
