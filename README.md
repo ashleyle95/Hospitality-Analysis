@@ -25,3 +25,10 @@ Bookings are collected from ﻿2022-04-07﻿  to ﻿2022-04-07﻿.
 + Analyze Booking and Revenue for Each Room Type and Property Category: Break down booking trends and revenue generation across different room types (e.g., standard, deluxe, suite) and property categories (e.g., resort, city hotel) to identify which room types and categories are the most profitable and where improvements can be made to optimize revenue.
 
 + Identify Operational Performance of the Hotel on Weekends and Weekdays: Compare the hotel’s performance on weekends versus weekdays, analyzing differences in occupancy, ADR, and revenue generation and assess whether weekends attract more leisure travelers while weekdays cater to business travelers, and adjust marketing and pricing strategies accordingly.
+### Data Source:
+[Details of data source](https://github.com/ashleyle95/Hospitality-Analysis/blob/main/meta_data_hospitality.txt)
+
+## 2. Data Process:
+After conducting a thorough data profiling and ensuring data quality, data is well-prepared for further analysis and I already create data modelling for the dat
+![image](https://github.com/user-attachments/assets/e865172a-8b5e-4633-b982-878e992657be)
+
